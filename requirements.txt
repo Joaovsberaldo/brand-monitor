@@ -1,0 +1,13 @@
+requests
+fastapi
+fastapi_mcp
+wikipedia
+google-adk
+streamlit
+uvicorn
+praw
+python-dotenv
+pydantic
+tavily-python
+tweepy
+pytest
