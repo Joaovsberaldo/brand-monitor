@@ -4,3 +4,13 @@ __pycache__/
 # Environments
 .env
 .venv
+
+# macOS
+.DS_Store
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Logs
+*.log
